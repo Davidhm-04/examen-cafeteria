@@ -1,0 +1,4 @@
+Lista de precios
+Cafe: 2 EUR
+Chocolate: 3 EUR
+Zumo: 3 EUR
